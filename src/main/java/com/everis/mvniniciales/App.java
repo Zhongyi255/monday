@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println(capitalize("zhongyi Chen!")  );
+        System.out.println(capitalize("hola Zhongyi Chen!")  );
     }
     
     public static String capitalize(String str) {
